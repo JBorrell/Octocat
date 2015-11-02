@@ -1,1 +1,2 @@
-Explain what git clone does, in your own words.
+The 'git clone' command replicates a specific Git repository into a new repository you've created.
+It copies all of the prior data allowing you to work on an exact replica of the repository you want.
