@@ -1,1 +1,3 @@
-Explain what the 'upstream' remote is usually used for, in your own words.
+An 'upstream' remote is usually a marker used at the initial place of forking the code.
+It is used to allow the user to return to the original point of code once the fork was created.
+Handy tool to keep track of the position before any current changes were made.
